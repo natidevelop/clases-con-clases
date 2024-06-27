@@ -22,7 +22,7 @@ function main() {
 
   //   console.log(unaBanda.members);
   console.log(unaBanda.albums);
-  console.log("otro cambio");
+  console.log("vino otra persona y le metio este cambio");
 }
 
 main();
